@@ -22,3 +22,5 @@ let obj1 = {
 //Spread operator in object
 let obj2 = {...obj1, country: "India"};
 console.log(obj2);
+
+//JS Main concept
